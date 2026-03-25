@@ -72,6 +72,14 @@ I’m a Flutter developer focused on building **fast, scalable, and user-friendl
 ## 🤝 Connect
 
 <p align="center">
+  <a href="mailto:ymohamed2602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="tel:+201282077343">
+    <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  
   <a href="https://github.com/youssef-ibrahim23">
     <img src="https://img.shields.io/badge/GitHub-@youssef--ibrahim23-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -80,5 +88,5 @@ I’m a Flutter developer focused on building **fast, scalable, and user-friendl
 ---
 
 <p align="center">
-  ⭐️ <i>Crafted with passion by [Youssef Ibrahim](https://github.com/youssef-ibrahim23)</i>
+  ⭐️ <i>Crafted with passion by <a href="https://github.com/youssef-ibrahim23">Youssef Ibrahim</a></i>
 </p>
