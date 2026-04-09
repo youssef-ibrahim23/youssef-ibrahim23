@@ -8,12 +8,6 @@
   📍 Egypt - Cairo - Ain Shams • 💡 Clean Code • ⚡ High Performance
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef-ibrahim23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/youssef-ibrahim23?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/youssef-ibrahim23?label=Total%20Stars&style=social" alt="GitHub stars" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -34,26 +28,11 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,postgres,mysql,spring,angular,androidstudio,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
 ---
 
-## 📊 Enhanced Analytics & Charts
+## 📊 Analytics & Charts
 
-### 🔥 GitHub Stats (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ibrahim23&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ibrahim23&theme=radical&hide_border=false" height="170"/>
-</p>
-
-### 🗂️ Most Used Languages (Detailed)
+### 🗂️ Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ibrahim23&layout=compact&theme=radical&langs_count=8&hide=html,css" height="170"/>
@@ -66,13 +45,7 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ibrahim23&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=00C9FF&line=00C9FF" width="88%"/>
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
-### 📊 Profile Summary Cards (Full Analytics)
+### 📊 Profile Summary Cards
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-ibrahim23&theme=radical" width="88%"/>
@@ -83,16 +56,7 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-ibrahim23&theme=radical&utcOffset=2" height="190"/>
 </div>
 
-### 🕒 WakaTime Stats (if integrated)
-
-> 💡 *To enable WakaTime analytics, [connect your WakaTime account](https://wakatime.com/) and add your API key to GitHub secrets. Then uncomment the section below.*
-
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=youssef-ibrahim23&theme=radical&layout=compact" height="170"/>
-</p>
--->
-
+<img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23" />
 ---
 
 ## 🧰 Core Tools & Environments
@@ -102,6 +66,8 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 ---
