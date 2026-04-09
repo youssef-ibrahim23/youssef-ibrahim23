@@ -1,6 +1,13 @@
+<!-- Header with animated typing and live badges -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Ibrahim;Flutter+Developer;Mobile+Apps+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssef-ibrahim23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/youssef-ibrahim23?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/youssef-ibrahim23?label=Total%20Stars&style=social" alt="GitHub stars" />
+</p>
 
 <p align="center">
   🚀 <b>Flutter Developer</b> • 📱 Mobile Apps Specialist  
@@ -10,29 +17,62 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me – 💼 Professional & 🎨 Creative
 
-I'm a **Flutter developer** focused on building **fast, scalable, and user‑friendly** mobile applications.
-
-- 🔭 Currently working on **Flutter applications**
-- 🌱 Exploring **advanced Flutter & backend systems** (Spring Boot, PostgreSQL)
-- ⚡ Passionate about **clean architecture** & **UI/UX**
-- 🧩 Open to collaborate on **open‑source Flutter projects**
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>💼 Professional</h3>
+        <ul>
+          <li>🔭 Building <b>production‑grade Flutter apps</b> with clean architecture</li>
+          <li>🌱 Exploring <b>Spring Boot + PostgreSQL</b> for full‑stack skills</li>
+          <li>🧩 Open to collaborate on <b>open‑source Flutter projects</b></li>
+          <li>📫 Reach me: <code>ymohamed2602@gmail.com</code></li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🎨 Creative UI/UX</h3>
+        <ul>
+          <li>✨ Pixel‑perfect <b>Figma to Flutter</b> implementations</li>
+          <li>🎭 Smooth animations & micro‑interactions</li>
+          <li>📱 Responsive designs that work on any screen</li>
+          <li>⚡ Performance‑first UI rendering</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack – Flutter & Beyond
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github" /><br/>
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,postgres,mysql,spring,angular,androidstudio,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 ---
 
-## 📊 Analytics & Charts
+## 📊 Enhanced Analytics Dashboard
 
-### 🗂️ Most Used Languages
+### 🔥 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ibrahim23&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ibrahim23&theme=radical&hide_border=false" height="170"/>
+</p>
+
+### 🗂️ Language Distribution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ibrahim23&layout=compact&theme=radical&langs_count=8&hide=html,css" height="170"/>
@@ -45,7 +85,7 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ibrahim23&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=00C9FF&line=00C9FF" width="88%"/>
 </p>
 
-### 📊 Profile Summary Cards
+### 📊 Full Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-ibrahim23&theme=radical" width="88%"/>
@@ -56,10 +96,15 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-ibrahim23&theme=radical&utcOffset=2" height="190"/>
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23" />
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
 ---
 
-## 🧰 Core Tools & Environments
+## 🧰 Core Tools & Workflow
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
@@ -68,6 +113,22 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Pinned Projects (Highlights)
+
+> 💡 *Replace these with your actual project links*
+
+<p align="center">
+  <a href="https://github.com/youssef-ibrahim23/flutter_ecommerce_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-ibrahim23&repo=flutter_ecommerce_app&theme=radical" />
+  </a>
+  <a href="https://github.com/youssef-ibrahim23/clean_architecture_todo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-ibrahim23&repo=clean_architecture_todo&theme=radical" />
+  </a>
 </p>
 
 ---
