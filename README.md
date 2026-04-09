@@ -72,6 +72,24 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
 
 ---
 
+---
+
+## 🚀 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/youssef-ibrahim23/CropModel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-ibrahim23&repo=CropModel&theme=radical" alt="Corp Meal" />
+  </a>
+  <a href="https://github.com/youssef-ibrahim23/islamic-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-ibrahim23&repo=islamic-app&theme=radical" alt="islamic-app" />
+  </a>
+  <a href="https://github.com/youssef-ibrahim23/personal-task-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-ibrahim23&repo=PROJECT-3&theme=radical" alt="Project 3" />
+  </a>
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
