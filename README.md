@@ -84,7 +84,7 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <a href="https://github.com/youssef-ibrahim23">
     <img src="https://img.shields.io/badge/GitHub-youssef--ibrahim23-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-mohamed-052581383/" target="_blank">
+  <a href="https://www.linkedin.com/in/youssef-mohamed-052581383/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
