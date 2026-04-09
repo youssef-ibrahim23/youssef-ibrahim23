@@ -1,30 +1,27 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=400&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Youssef+Ibrahim;Flutter+Developer;Clean+Architecture+Enthusiast;Building+High+Performance+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Ibrahim;Flutter+Developer;Mobile+Apps+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  🚀 Flutter Developer • 📱 Mobile Apps Specialist <br/>
-  📍 Cairo, Egypt • ⚡ Clean Code • 💡 Scalable Systems
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssef-ibrahim23&label=Profile%20views&color=0e75b6&style=flat" />
+  🚀 <b>Flutter Developer</b> • 📱 Mobile Apps Specialist  
+  <br/>
+  📍 Egypt - Cairo - Ain Shams • 💡 Clean Code • ⚡ High Performance
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Flutter developer** passionate about building **high-performance, scalable, and clean architecture applications**.
+I'm a **Flutter developer** focused on building **fast, scalable, and user‑friendly** mobile applications.
 
-- 🔭 Working on **production-ready Flutter apps**
-- 🌱 Learning **Backend (Spring Boot + PostgreSQL)**
-- 🧠 Focused on **Clean Architecture & SOLID principles**
-- 🤝 Open to **freelance & open-source collaborations**
+- 🔭 Currently working on **Flutter applications**
+- 🌱 Exploring **advanced Flutter & backend systems** (Spring Boot, PostgreSQL)
+- ⚡ Passionate about **clean architecture** & **UI/UX**
+- 🧩 Open to collaborate on **open‑source Flutter projects**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github" /><br/>
@@ -33,32 +30,36 @@ I'm a **Flutter developer** passionate about building **high-performance, scalab
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Analytics & Charts
+
+### 🗂️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ibrahim23&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ibrahim23&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ibrahim23&layout=compact&theme=radical&langs_count=8&hide=html,css" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssef-ibrahim23&theme=radical" height="170"/>
 </p>
 
----
-
-## 📈 Activity Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ibrahim23&theme=react-dark&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ibrahim23&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=00C9FF&line=00C9FF" width="88%"/>
 </p>
 
----
-
-## 🏆 Achievements
+### 📊 Profile Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-ibrahim23&theme=radical" width="88%"/>
 </p>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssef-ibrahim23&theme=radical" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-ibrahim23&theme=radical&utcOffset=2" height="190"/>
+</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23" />
 ---
 
-## 🧰 Tools & Environments
+## 🧰 Core Tools & Environments
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
@@ -75,18 +76,23 @@ I'm a **Flutter developer** passionate about building **high-performance, scalab
 
 <p align="center">
   <a href="mailto:ymohamed2602@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ymohamed2602%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+201282077343">
+    <img src="https://img.shields.io/badge/Phone-%2B20%20128%20207%207343-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://github.com/youssef-ibrahim23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-youssef--ibrahim23-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/youssef-mohamed-052581383/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/youssef-mohamed-052581383/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ <b>“Write clean code, build scalable apps.”</b>
+  <i>⭐️ Crafted with passion by <a href="https://github.com/youssef-ibrahim23">Youssef Ibrahim</a></i>
+  <br/>
+  <i>💬 “Write clean code, build smooth experiences.”</i>
 </p>
