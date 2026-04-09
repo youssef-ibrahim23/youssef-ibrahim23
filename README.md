@@ -4,7 +4,7 @@
 
 <p align="center">
   🚀 <b>Flutter Developer</b> • 📱 Mobile Apps Specialist  
-  <br/>
+  <br/><br/>
   📍 Egypt - Cairo - Ain Shams • 💡 Clean Code • ⚡ High Performance
 </p>
 
