@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Ibrahim;Flutter+Developer;Mobile+Apps+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Ibrahim;Software+Developer;Mobile+Apps+Specialist;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,8 +29,6 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
 </p>
 
 ---
-
-## 📊 Analytics & Charts
 
 ### 🗂️ Most Used Languages
 
