@@ -34,7 +34,6 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ibrahim23&layout=compact&theme=radical&langs_count=8&hide=html,css" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssef-ibrahim23&theme=radical" height="170"/>
 </p>
 
 ### 📈 Contribution Activity
