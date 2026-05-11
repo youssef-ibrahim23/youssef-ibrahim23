@@ -54,7 +54,6 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-ibrahim23&theme=radical&utcOffset=2" height="190"/>
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=youssef-ibrahim23" />
 ---
 
 ## 🧰 Core Tools & Environments
