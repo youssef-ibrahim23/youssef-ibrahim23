@@ -3,25 +3,25 @@
 </h1>
 
 <p align="center">
-  🚀 <b>Flutter Developer</b> • 📱 Mobile Apps Specialist  
+  <b>Flutter Developer</b> • Mobile Apps Specialist  
   <br/><br/>
-  📍 Egypt - Cairo - Ain Shams • 💡 Clean Code • ⚡ High Performance
+  Egypt - Cairo - Ain Shams • Clean Code • High Performance
 </p>
 
 ---
 
-## 👨‍💻 About Me
+· Professional Summary
 
 I'm a **Flutter developer** focused on building **fast, scalable, and user‑friendly** mobile applications.
 
-- 🔭 Currently working on **Flutter applications**
-- 🌱 Exploring **advanced Flutter & backend systems** (Spring Boot, PostgreSQL)
-- ⚡ Passionate about **clean architecture** & **UI/UX**
-- 🧩 Open to collaborate on **open‑source Flutter projects**
+- Currently working on **Flutter applications**
+- Exploring **advanced Flutter & backend systems** (Spring Boot, PostgreSQL)
+- Passionate about **clean architecture** & **UI/UX**
+- Open to collaborate on **open‑source Flutter projects**
 
 ---
 
-## 🛠️ Tech Stack
+· Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,git,github" /><br/>
@@ -30,20 +30,20 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
 
 ---
 
-### 🗂️ Most Used Languages
+· Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ibrahim23&layout=compact&theme=radical&langs_count=8&hide=html,css" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssef-ibrahim23&theme=radical" height="170"/>
 </p>
 
-### 📈 Contribution Activity
+· Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ibrahim23&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=00C9FF&line=00C9FF" width="88%"/>
 </p>
 
-### 📊 Profile Summary Cards
+· Profile Summary Cards
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-ibrahim23&theme=radical" width="88%"/>
@@ -56,7 +56,7 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
 
 ---
 
-## 🧰 Core Tools & Environments
+· Core Tools & Environments
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
@@ -69,7 +69,7 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
 
 ---
 
-## 🤝 Connect With Me
+· Connect With Me
 
 <p align="center">
   <a href="mailto:ymohamed2602@gmail.com">
