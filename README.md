@@ -36,25 +36,6 @@ I'm a **Flutter developer** focused on building **fast, scalable, and user‑fri
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssef-ibrahim23&theme=radical" height="170"/>
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ibrahim23&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&point=00C9FF&line=00C9FF" width="88%"/>
-</p>
-
-### 📊 Profile Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-ibrahim23&theme=radical" width="88%"/>
-</p>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssef-ibrahim23&theme=radical" height="190"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssef-ibrahim23&theme=radical&utcOffset=2" height="190"/>
-</div>
-
----
-
 ## 🧰 Core Tools & Environments
 
 <p align="center">
